@@ -77,4 +77,3 @@ def load_company_info():
     data = json.loads(data_file.read())
     return data
 
-scrape()
