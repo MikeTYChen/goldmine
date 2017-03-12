@@ -7,7 +7,7 @@ class CompanySerializer(serializers.ModelSerializer):
   address = serializers.SerializerMethodField()
 
   def get_address(self, obj):
-    if obj.address:
+    if obj.location:
       return obj.location.address
     return ''
 
