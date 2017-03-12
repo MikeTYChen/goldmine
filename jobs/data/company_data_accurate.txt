@@ -258,3 +258,168 @@ Kaltura|250 Park Ave S, New York, NY 10003, United States|40.73825129999999|-73.
 HelloFresh|95 Morton St, New York, NY 10014, United States|40.7313013|-74.00852429999999
 Carbon3D|1089 Mills Way, Redwood City, CA 94063, United States|37.487299|-122.209363
 Illumio|160 San Gabriel Dr, Sunnyvale, CA 94086, United States|37.37669510000001|-122.0150707
+Couple|538 Hayes St, San Francisco, CA 94102, United States|37.7766647|-122.4252933
+ZenPayroll|500 3rd St #405, San Francisco, CA 94107, United States|37.7808376|-122.3958372
+Pinterest|651 Brannan St, San Francisco, CA 94107, USA|37.775454|-122.399961
+Circa|360 Post St #602, San Francisco, CA 94108, USA|37.7886546|-122.4076944
+Zesty|1640 17th St, San Francisco, CA 94107, United States|37.7650853|-122.4004259
+Mattermark|564 Pacific Ave, San Francisco, CA 94133, United States|37.7973046|-122.4046337
+Buffer|1901 Junipero Serra Blvd, Daly City, CA 94014, United States|37.7025897|-122.4705528
+Square|Vancouver, BC V5Z, Canada|49.266191|-123.120109
+Path|1007 General Kennedy Ave, San Francisco, CA 94129, United States|37.8009463|-122.4513035
+Airbnb|888 Brannan St, San Francisco, CA 94103, United States|37.7717481|-122.4051325
+Udemy|600 Harrison St, San Francisco, CA 94107, USA|37.7841313|-122.3958947
+AngelList|90 Gold St, San Francisco, CA 94133, USA|37.79675849999999|-122.4034713
+Lovely|300 Jefferson St, San Francisco, CA 94133, United States|37.8080927|-122.4179157
+Streak|109 Wells St, Streaky Bay SA 5680, Australia|-32.7979441|134.2008644
+Twitter|1355 Market St #900, San Francisco, CA 94103, USA|37.77679639999999|-122.4166041
+Uber|130 Vermont St, San Francisco, CA 94103, United States|37.7675906|-122.4051236
+Storefront|100 Apple Ln, Yorktown, VA 23693, United States|37.10880909999999|-76.4561317
+Rally|3200 Ulmerton Rd, Clearwater, FL 33762, USA|27.8933306|-82.68036620000001
+Getable|500 Sansome St #507, San Francisco, CA 94111, United States|37.795154|-122.401231
+Visually|5, 77 Geary St, San Francisco, CA 94108, USA|37.7875118|-122.4047528
+Original|Ave Rd Cross, Ganigarpet, Nagarathpete, Bengaluru, Karnataka 560002, India|12.9677182|77.5787381
+Kown|Petaluma, CA, USA|38.235938|-122.6172359
+uBiome|180 Steuart St #194165, San Francisco, CA 94105, United States|37.7921304|-122.3922197
+Getaround|260 King St, San Francisco, CA 94107, United States|37.7772049|-122.3940134
+Vouch Financial|118 King St, San Francisco, CA 94107, United States|37.77959130000001|-122.3903656
+DreamFunded|505 Montgomery St, San Francisco, CA 94111, USA|37.7939757|-122.4034169
+Keen IO|1458 Howard St, San Francisco, CA 94103, United States|37.7736792|-122.4153509
+42Floors|46 Mercer St, New York, NY 10013, United States|40.7214737|-74.00072550000002
+Periscope|1405 Minnesota St, San Francisco, CA 94107, United States|37.7520403|-122.3893775
+Sense|131 Mt Auburn St, Cambridge, MA 02138, United States|42.3738718|-71.1237384
+Boatbound|1505 Westlake Ave N #940, Seattle, WA 98109, United States|47.63261709999999|-122.3416219
+Cake Health|100 1st St, San Francisco, CA 94105, United States|37.7891275|-122.3981196
+PandoMedia|Calle la Media Legua, 33011 Oviedo, Asturias, Spain|43.3834889|-5.8138385
+BackOps|171 2nd St #3, San Francisco, CA 94105, United States|37.7872628|-122.3985483
+StyleSeat|218 Clara St, San Francisco, CA 94107, United States|37.779139|-122.403062
+Leap Transit|A-303, Vraj Kunj, V.P Road, Opp. Vile Parle Station South End, Vile Parle West, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400056, India|19.1130354|72.9113776
+Sprig|1513 Arbuckle Ct, Santa Clara, CA 95054, United States|37.3781317|-121.9562457
+Elevate|1041 Shary Cir, Concord, CA 94518, United States|37.952863|-122.032525
+Kaggle|188 King St #502, San Francisco, CA 94107, United States|37.77861129999999|-122.3918161
+Puddle|3100 28th St, Boulder, CO 80301, United States|40.0311442|-105.2577873
+Sqwiggle|105 8th Ave NW, Melrose, MN 56352, USA|45.6780545|-94.827079
+UpCounsel|580 Market Street, 5th Floor, San Francisco, CA 94104, United States|37.7894768|-122.4014653
+Calm|4100 Dixie Hwy NE, Palm Bay, FL 32905, USA|28.0381532|-80.5828736
+Drive|1070 A St, Hayward, CA 94541, United States|37.6748664|-122.0829858
+Cambrian Genomics|665 3rd St, San Francisco, CA 94107, United States|37.7795208|-122.3931243
+McKinsey & Company|3075 Hansen Way, Palo Alto, CA 94304, United States|37.4177517|-122.1423157
+Wanelo|375 Alabama St #400, San Francisco, CA 94110, United States|37.76456379999999|-122.4118899
+Ribbon|6877 Mission St, Daly City, CA 94014, United States|37.69715199999999|-122.4628898
+Locu|2525 Barrington Ct, Hayward, CA 94545, United States|37.6558994|-122.1406957
+Socialize|250 E 4th St, Cincinnati, OH 45202, USA|39.1005628|-84.5085244
+Lever|4415 Lever, Portugal|41.06405700000001|-8.478759
+Red Tricycle|4017 Meridian Ave N, Seattle, WA 98103, United States|47.6561982|-122.3341853
+InternMatch|425 2nd St Suite 201, San Francisco, CA 94107, United States|37.78403349999999|-122.3945124
+Edyn|17 Glen Eden Ave #2, Oakland, CA 94611, USA|37.8291173|-122.2482164
+Loot!|1067 Market St, San Francisco, CA 94103, United States|37.7808534|-122.4116441
+Stripe|4747 S Alameda St, Corpus Christi, TX 78412, USA|27.7240885|-97.3621503
+Zynga|699 8th St, San Francisco, CA 94103, United States|37.7709273|-122.4036654
+Experiment|Experiment St, Griffin, GA 30223, USA|33.2608797|-84.27986179999999
+DroneDeploy|1045 Bryant St, San Francisco, CA 94103, United States|37.7717934|-122.4074
+fitmob|371 5th St, San Francisco, CA 94107, United States|37.77948440000001|-122.4021841
+Thumbtack|360 9th St, San Francisco, CA 94103, United States|37.7729351|-122.4111257
+Pick1|640 CA-1, Pescadero, CA 94060, United States|37.11710309999999|-122.3038722
+Care at Hand|P.O. Box 3693, Redwood City, CA 94064, United States|37.4872416|-122.2279464
+Spire Global|575 Florida St Suite 150, San Francisco, CA 94110, United States|37.76199|-122.4106502
+Brilliant|10th Floor, 26 O'Farrell St, San Francisco, CA 94108, United States|37.7869368|-122.4055448
+Stipple|Stipple House, Green St, Holt, Wrexham LL13 9JF, UK|53.0815334|-2.881871400000001
+Ark|14700 Doolittle Dr, San Leandro, CA 94577, United States|37.6919961|-122.1728003
+PayByGroup|880 Harrison St #303C, San Francisco, CA 94107, United States|37.7795552|-122.4015001
+Famo.us|571 Great Mall Drive, Milpitas, CA 95035, United States|37.4159632|-121.8981684
+Chewse|6218 La Salle Ave, Oakland, CA 94611, United States|37.82680120000001|-122.2090233
+Happy Inspector|2929 Lori Ln, Yadkinville, NC 27055, USA|36.125437|-80.576357
+Voxer|660 Mission St, San Francisco, CA 94105, United States|37.7870967|-122.4013597
+Instacart|Blue Shield of California Building, 50 Beale St #600, San Francisco, CA 94105, United States|37.791256|-122.396399
+BranchOut|69 Sonora Way, Corte Madera, CA 94925, United States|37.9123518|-122.5046571
+Scan|1814 Franklin St #618, Oakland, CA 94612, United States|37.8069308|-122.2675353
+august|August Ave, Westland, MI 48185, USA|42.35131690000001|-83.336767
+Eligible|Eligible, LIC Rd Number 1, Aary Colony, LIC Colony, Borivali West, Mumbai, Maharashtra 400103, India|19.2409964|72.8513864
+RealtyShares|501 2nd St #700, San Francisco, CA 94107, United States|37.7831809|-122.392966
+Bento|412 22nd St, Oakland, CA 94612, United States|37.8109127|-122.2664792
+Nuzzel|Tanger Outlets, 6699 N Landmark Dr #103, Park City, UT 84098, United States|40.727559|-111.550097
+Kraken|550 10th St, Oakland, CA 94607, United States|37.802202|-122.274043
+Vungle|185 Clara St #100, San Francisco, CA 94107, United States|37.77977579999999|-122.4018327
+Virool|88 Kearny St #21, San Francisco, CA 94108, United States|37.78869299999999|-122.403332
+Faraday Bicycles|360 Langton St, San Francisco, CA 94103, United States|37.773025|-122.404561
+Shelf.com|1530 Whipple Rd, Union City, CA 94587, United States|37.6059452|-122.0440802
+Balanced|1110 La Avenida St b, Mountain View, CA 94043, United States|37.413807|-122.07313
+Rentlytics|537 Stevenson St #200, San Francisco, CA 94103, United States|37.781249|-122.410266
+Ninja Blocks|Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India|19.05961|72.8552983
+Whale Path|Half Moon Bay, CA 94019, United States|37.5645993|-122.5139689
+Nomiku|Nomiki, Poland|53.4224561|23.6981915
+iodine|Iodine St NW, Ramsey, MN 55303, USA|45.24853229999999|-93.40992279999999
+Red Clay|1775 Russell Ave, Santa Clara, CA 95054, United States|37.3872894|-121.957961
+Zuli|Zuli, Maharashtra, India|20.1653275|78.219132
+AnyPerk|33 New Montgomery St #700, San Francisco, CA 94105, United States|37.7885853|-122.4012726
+Firebase|5103 Forsyth Commerce Rd #3, Orlando, FL 32807, USA|28.56123629999999|-81.29055009999999
+Beep|1051 Ocean Ave, San Francisco, CA 94112, USA|37.72324700000001|-122.453887
+Hello|438 Shotwell St, San Francisco, CA 94110, USA|37.7611846|-122.4163689
+TaskRabbit|425 2nd St, San Francisco, CA 94107, United States|37.7842983|-122.3944243
+Asseta|370 7th St, San Francisco, CA 94103, United States|37.77575959999999|-122.4069697
+PerkHub|400 2nd St #400, San Francisco, CA 94107, United States|37.7856757|-122.3958433
+Directly|333 Bryant St, San Francisco, CA 94107, United States|37.7838451|-122.3921335
+Dropbox|166 E Bloomingdale Ave, Brandon, FL 33511, USA|27.89421399999999|-82.283817
+Lob|E. Wacker Drive 323, Swissotel Chicago, Chicago, IL 60601-9722, USA|41.887248|-87.61949659999999
+MixRank|Floor 6, 26 O'Farrell St, San Francisco, CA 94108, United States|37.7868751|-122.4055069
+SpoonRocket|173 Eddy St, San Francisco, CA 94102, United States|37.7841182|-122.4104099
+App.io|Bay Area Blvd, Texas, USA|29.5989668|-95.08205240000001
+Chartio|222 Kearny St #525, San Francisco, CA 94108, United States|37.79018180000001|-122.4036682
+Knotch|3635 Sauk Trail, Richton Park, IL 60471, USA|41.4839821|-87.70499769999999
+Proven|237 Kearny St, San Francisco, CA 94108, USA|37.79032279999999|-122.4042137
+SoundFocus|Korte Bergweg 9, 1261 ZA Blaricum, Netherlands|52.27736420000001|5.248871200000001
+Everest|299 Waverley St, Thunder Bay, ON P7B 5Z7, Canada|48.43650840000001|-89.2242735
+Trio|435 Minor Ave, San Jose, CA 95126, United States|37.3247216|-121.8951932
+Spotify|4, 25 Argyll St, London W1F 7TU, United Kingdom|51.5148388|-0.1411876
+Yelp|140 New Montgomery St, San Francisco, CA 94105, United States|37.7866839|-122.3998832
+Zaarly|3500 West 75th St, Suite 250 (front door facing 75th), Prairie Village, KS 66208, United States|38.993595|-94.626291
+HomeLight|Ground Floor,, 128 Spear St, San Francisco, CA 94105, United States|37.7920017|-122.3936879
+Luxr.co|3900 S Las Vegas Blvd, Las Vegas, NV 89119, United States|36.09551|-115.1760672
+Mirror|43060 Christy St, Fremont, CA 94538, United States|37.5073034|-121.9725507
+Runnable|1481 Folsom St, San Francisco, CA 94103, United States|37.7716526|-122.4131931
+inDinero|50 Osgood Pl #220, San Francisco, CA 94133, United States|37.79797149999999|-122.4028864
+Maker|2497-2599 S Delaware St, San Mateo, CA 94403, United States|37.5461058|-122.3028269
+Womply|420 Bryant St, San Francisco, CA 94107, United States|37.78265469999999|-122.394712
+LE TOTE|3130 20th St, San Francisco, CA 94110, United States|37.7594365|-122.4122365
+GAIN Fitness|Sakumono, Ghana|5.6205891|-0.06095789999999999
+Good.Co|Plot No 133A, Sagar Vihar, Sector 8, Vashi, Navi Mumbai, Maharashtra 400703, India|19.0749574|72.9849936
+Birdi|2145 Taraval St, San Francisco, CA 94116, United States|37.7423182|-122.4893442
+Leap Motion|333 Bryant St ll150, San Francisco, CA 94107, United States|37.7839396|-122.3922609
+Dwell|2440 S Kinnickinnic Ave, Milwaukee, WI 53207, United States|43.000448|-87.90178399999999
+WillCall|5555 Wipfli Rd, Fremont, CA 94538, USA|37.50587540000001|-121.9739873
+Sliced Investing|416, Silver Arket, New Palasia, New Palasia, Indore, Madhya Pradesh 452001, India|22.7293902|75.88316830000001
+Prompt.ly|10103 S Ewing Ave, Chicago, IL 60617, United States|41.71179|-87.5352563
+Forage|1473 Oak St #7, San Francisco, CA 94117, United States|37.772108|-122.443464
+TenderTree|14 Victoria St, Englefield Green, Egham TW20 0QY, United Kingdom|51.4290492|-0.5701978000000001
+Twilio|375 Beale St, San Francisco, CA 94105, United States|37.7879235|-122.3915621
+Robocoin|Edmonton, AB T5T, Canada|53.52264229999999|-113.6222257
+Crossfader|Fader Pl, Marblehead, MA 01945, USA|42.508599|-70.862448
+ONE|One Bay Plaza, 1350 Old Bayshore Hwy, Burlingame, CA 94010, USA|37.5947239|-122.3639309
+Asana|Asana St, Las Vegas, NV 89178, USA|35.9991392|-115.2510385
+Foodzie|375 Alabama St #325, San Francisco, CA 94110, United States|37.76453679999999|-122.4121519
+geeklist|7825 Fay Ave Suite 200, La Jolla, CA 92037, United States|32.8451063|-117.2749435
+Streem|2400 Cordelia Rd, Fairfield, CA 94534, United States|38.2298539|-122.0743972
+RolePoint|645 Harrison St #200, San Francisco, CA 94107, United States|37.783395|-122.39571
+Augmedix|1161 Mission St #210, San Francisco, CA 94103, United States|37.7780796|-122.4121706
+Brit + Co|550 Sutter St, San Francisco, CA 94102, United States|37.7892635|-122.40955
+NewCo|1202 Ralston Ave, San Francisco, CA 94129, United States|37.8002939|-122.4752748
+Benchling|1122 Howard St, San Francisco, CA 94103, United States|37.7776866|-122.410202
+Simpler|2325 3rd St #222, San Francisco, CA 94107, USA|37.76005920000001|-122.388303
+Pocket|Pocket, Sacramento, CA 95831, USA|38.483655|-121.531291
+BetterDoctor|945 Bryant St #350, San Francisco, CA 94103, United States|37.7733361|-122.4055474
+Boost Media|150 Columbus Ave, San Francisco, CA 94133, United States|37.7968756|-122.404791
+Orion|10555 S De Anza Blvd, Cupertino, CA 95014, United States|37.3146798|-122.0327219
+CRAVE|2164 Polk St, San Francisco, CA 94109, United States|37.7968078|-122.4217335
+Circle of Moms|118 2nd St #2, San Francisco, CA 94105, United States|37.78759349999999|-122.3996856
+Adsnative|832 Sansome St, San Francisco, CA 94111, United States|37.79801680000001|-122.4019146
+PICT|658 N Rus Ave, Chicago, IL 60611, United States|41.8942487|-87.6255244
+Gumroad|Sweet Gum Rd, Brooksville, FL 34613, USA|28.5681816|-82.51405989999999
+500friends|6th Floor,, 405 Howard St, San Francisco, CA 94105, United States|37.7885734|-122.3951353
+AllTrails|1007 General Kennedy Ave, San Francisco, CA 94129, United States|37.8009463|-122.4513035
+UserVoice|121 2nd St, San Francisco, CA 94105, United States|37.7878199|-122.3991624
+True & Co|2001 E Terra Ln, O'Fallon, MO 63366, United States|38.805735|-90.666045
+Opencare|5th Floor, 111 Richmond St W, Toronto, ON M5H 2G4, Canada|43.6502911|-79.3839517
+Momunt|Mt Diablo, California 94598, USA|37.8815913|-121.9141528
+DoctorBase (acquired by Kareo)|965 Mission St, San Francisco, CA 94103, United States|37.7814089|-122.4075924
+Nextdoor|1001 Polk St, San Francisco, CA 94109, United States|37.7861563|-122.4201283
+Advsor|1501 Kelly St, Oceanside, CA 92054, USA|33.179124|-117.3514568

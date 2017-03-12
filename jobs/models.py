@@ -3,18 +3,12 @@ from __future__ import unicode_literals
 from django.db import models
 from django.contrib.auth.models import User
 
-class Job(models.Model):
-  title = models.CharField(max_length=200)
-  link = models.URLField()
-  posted_on = models.DateTimeField('posted_on')
-  company = models.ForeignKey('Company')
-  description = models.TextField()
-
-
 class Company(models.Model):
   name = models.CharField(max_length=100)
+  summary = models.TextField(null=True)
+  description = models.TextField(null=True)
   logo = models.URLField(null=True)
-  url = models.URLField()
+  url = models.URLField(null=True)
   location = models.ForeignKey('Location', blank=True, null=True, related_name="companies")
 
 

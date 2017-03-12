@@ -4,6 +4,12 @@ from . import models
 class CompanySerializer(serializers.ModelSerializer):
   lng = serializers.SerializerMethodField()
   lat = serializers.SerializerMethodField()
+  address = serializers.SerializerMethodField()
+
+  def get_address(self, obj):
+    if obj.address:
+      return obj.location.address
+    return ''
 
   def get_lng(self, obj):
     if obj.location:
@@ -17,10 +23,4 @@ class CompanySerializer(serializers.ModelSerializer):
 
   class Meta:
     model = models.Company
-    fields = ('id', 'name', 'url', 'logo', 'lng', 'lat')
-
-
-class JobSerializer(serializers.ModelSerializer):
-  class Meta:
-    model = models.Job
-    fields = ('id', 'title', 'link', 'posted_on', 'company', 'description')
+    fields = ('id', 'name', 'summary', 'description', 'url', 'logo', 'lng', 'lat', 'address')

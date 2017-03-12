@@ -3,7 +3,6 @@ from rest_framework import routers
 from jobs import views
 
 router = routers.DefaultRouter()
-router.register(r'jobs', views.JobViewSet)
 router.register(r'companies', views.CompanyViewSet)
 
 # Wire up our API using automatic URL routing.
