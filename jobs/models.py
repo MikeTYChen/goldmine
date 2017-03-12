@@ -13,6 +13,7 @@ class Job(models.Model):
 
 class Company(models.Model):
   name = models.CharField(max_length=100)
+  logo = models.URLField(null=True)
   url = models.URLField()
   location = models.ForeignKey('Location', blank=True, null=True, related_name="companies")
 

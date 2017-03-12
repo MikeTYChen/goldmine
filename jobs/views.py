@@ -14,9 +14,3 @@ class CompanyViewSet(viewsets.ModelViewSet):
     model = models.Company
     queryset = models.Company.objects
     serializer_class = serializers.CompanySerializer
-
-
-class LocationViewSet(viewsets.ModelViewSet):
-    model = models.Location
-    queryset = models.Location.objects
-    serializer_class = serializers.LocationSerializer

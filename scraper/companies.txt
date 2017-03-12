@@ -1,0 +1,268 @@
+Clever
+DogVacay
+Wealthfront
+Coursera
+Branch Metrics
+Quip
+BetterWorks
+Lytro
+OpenGov
+Revinate
+Bromium
+Declara
+General Assembly
+Glow
+Walker & Company Brands
+Xapo
+Zuora
+Beepi
+Blend Labs
+DreamBox Learning
+Knewton
+littleBits Electronics 
+PlanGrid
+Quantopian
+Qumulo
+Addepar
+AltSchool
+Anki
+Collective Health
+Distill Networks
+Duo Security
+Enjoy
+Guardant Health
+Hello Alfred
+Lightsail Energy
+MCube
+Ogin
+Scribd
+SnapLogic
+Sumo Logic
+Vessel
+Adatao
+Affirm
+Airware
+Blue Jeans Network
+Dataminr
+Duolingo
+Endgame
+Foursquare
+Freshdesk
+Hearsay Social
+Instart Logic
+Jaunt
+Kensho
+LIFX
+Looker
+Luxe
+PayNearMe
+Robinhood
+SignalFX
+SKULLY
+Solexel
+Stitch Fix
+Truecaller
+Upstart
+VMTurbo
+Ambiq Micro
+Aquion Energy
+Aspiration
+Athos
+August
+Betterment
+Bitglass
+Blockstream
+Coinbase
+Course Hero
+Eero
+Elastic
+Evertrue
+Figma
+Flexport
+Genius
+Hipmunk
+Mesosphere
+NerdWallet
+One Medical Group
+Optimizely
+OYO Rooms
+PlanetLabs
+Realm
+Remind
+Samsara
+Science Exchange
+Shapeways
+Shyp
+Tradesy
+uBeam
+Upwork
+Vicarious
+Welltok
+17zuoye
+3D Robotics
+Algal Scientific
+Andela
+Automatic
+Ayasdi
+Bolt Threads
+Canary
+Clean Power Finance
+ClearStory Data
+Cyanogen
+DNAnexus
+DoorDash
+Earnest
+Edaija
+Flatiron Health
+Go-Jek
+Greenhouse
+Grofers
+Helium
+Highfive
+HotelTonight
+IFTTT
+Impossible Foods
+Improbable
+Iora Health
+iZettle
+JIBO
+Keybase
+Life360
+Mantis Vision
+Matterport
+MetaMind
+Minerva Project
+Modern Meadow
+Motif Investing
+Ninebot
+OpenEnglish
+PillPack
+Pindrop Security
+Platfora
+Postmates
+Practice Fusion
+Raise Marketplace
+Seeo
+Segment
+SendGrid
+Shape Security
+Skycatch
+Snowflake Computing
+Soylent Corporation
+Spire
+Takealot Online
+Thync
+Tokopedia
+True North Therapeutics
+VeloCloud
+x.ai
+Zerto
+AlienVault
+App Annie
+Babylon Health
+CareCloud
+CloudGenix
+CohereTechnologies
+CommonBond
+Compass
+Curious
+Dollar Shave Club
+Dwolla
+Ehang
+Euclid Analytics
+Flipagram
+Flux Factory
+FreedomPOP
+General Fusion
+Ginkgo Bioworks
+HackerOne
+Harry's
+Hedvig
+Hired
+Hyperloop Technologies
+Infer
+JAMF
+Kymeta
+Lily
+Liquidity Nanotech
+Medium
+Mixpanel
+Munchery
+Narrative Science
+NuBank
+Numenta
+OneFineStay
+Ozy Media
+peerTransfer
+PernixData
+PolicyGenius
+Ravello Systems
+Redfin
+Skyhigh Networks
+SmartDrive Systems
+Stack Exchange
+Switch Communications
+Synack
+Tamr
+Teespring
+Uxin 
+Barkly
+Blue Danube Systems
+BrightBytes
+Capriza
+CipherCloud
+Circle
+Coho Data
+DB Networks
+DigitalOcean
+Estimote
+Fundbox
+Handy
+Ionic Security
+Lehigh Technologies
+Livongo Health
+Lomark
+Malwarebytes
+Meteor
+Nantero
+Navdy
+Onshape
+Opendoor
+Pebble
+Personal Capital
+Procore Technologies
+Shift
+Spiceworks
+Squarespace
+Tealium
+Tilt
+Toast
+WeTransfer
+CircleUp
+ClassPass
+Datadog
+Jelli
+PlaceIQ
+Project Frog
+Redmart
+Taboola
+Talend
+Talkdesk
+Expect Labs (Mindmeld)
+Wayin
+Aquantia
+Sano
+Estimote
+Lifesize
+Clarifai
+Branch Metrics
+Presence Learning
+Spartz Media
+Kapow Events
+URX
+NerdWallet
+Fullbridge
+Kaltura
+HelloFresh
+Carbon3D
+Illumio
