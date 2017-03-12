@@ -1,0 +1,260 @@
+Tilt|370 Townsend St, San Francisco, CA 94107, United States|37.7760081|-122.3966063
+Clever|1263 Mission St, San Francisco, CA 94103, United States|37.7765437|-122.4140651
+Wealthfront|900 Middlefield Rd, Redwood City, CA 94063, United States|37.4849059|-122.229293
+Coursera|381 E Evelyn Ave, Mountain View, CA 94041, United States|37.3868492|-122.060844
+Branch Metrics|2443 Ash St, Palo Alto, CA 94306, United States|37.42635129999999|-122.1442218
+Quip|731 Market St #200, San Francisco, CA 94103, United States|37.7868699|-122.4041354
+BetterWorks|999 Main St, Redwood City, CA 94063, United States|37.484282|-122.225865
+Lytro|1300 Terra Bella Ave, Mountain View, CA 94043, United States|37.41032679999999|-122.0809964
+OpenGov|955 Charter St, Redwood City, CA 94063, United States|37.4859652|-122.2121292
+Revinate|1 Letterman Dr, San Francisco, CA 94129, United States|37.7988821|-122.4491841
+Bromium|20813 Stevens Creek Blvd, Cupertino, CA 95014, United States|37.324089|-122.0383523
+Declara|977 Commercial St, Palo Alto, CA 94303, United States|37.4245502|-122.1002563
+General Assembly|2, 10 E 21st St, New York, NY 10010, United States|40.7398476|-73.9902068
+Glow|1548 Stockton St, San Francisco, CA 94133, United States|37.8000729|-122.4090114
+Walker & Company Brands|931 N Pennsylvania Ave, Winter Park, FL 32789, United States|28.6056047|-81.3570211
+Xapo|361 Lytton Ave, Palo Alto, CA 94301, United States|37.447619|-122.16236
+Zuora|3050 S Delaware St #301, San Mateo, CA 94403, United States|37.5404051|-122.2989933
+Beepi|605 Fairchild Dr, Mountain View, CA 94043, United States|37.4025867|-122.049183
+Blend Labs|25th Floor, 100 Montgomery St, San Francisco, CA 94104, United States|37.7901709|-122.4019994
+DreamBox Learning|Bellevue Corporate Plaza, 600 108th Ave NE #805, Bellevue, WA 98004, United States|47.6159766|-122.1955403
+Knewton|100 5th Ave, New York, NY 10011, United States|40.7369664|-73.99317549999999
+littleBits Electronics|601 W 26th St M274, New York, NY 10001, United States|40.75150329999999|-74.0065675
+PlanGrid|2111 Mission St #404, San Francisco, CA 94110, United States|37.7633215|-122.4192429
+Quantopian|5th Floor, 100 Franklin St, Boston, MA 02110, United States|42.35561|-71.057688
+Qumulo|1501 4th Ave #1600, Seattle, WA 98101, United States|47.6101003|-122.33746
+Addepar|303 Bryant St, Mountain View, CA 94041, United States|37.3926324|-122.0807561
+AltSchool|1245 Folsom St, San Francisco, CA 94103, United States|37.7742401|-122.4105571
+Anki|Floor 15, 55 2nd St, San Francisco, CA 94105, United States|37.788809|-122.400386
+Collective Health|85 Bluxome St, San Francisco, CA 94107, United States|37.776105|-122.397302
+Distill Networks|4501 Fairfax Dr #200, Arlington, VA 22201, United States|38.882511|-77.115377
+Duo Security|123 N Ashley St #200, Ann Arbor, MI 48104, United States|42.2821059|-83.7499881
+Enjoy|324 Lafayette St, New York, NY 10012, United States|40.7255928|-73.99524740000001
+Guardant Health|505 Penobscot Dr, Redwood City, CA 94063, United States|37.50020500000001|-122.2181166
+Hello Alfred|55 W 19th St, New York, NY 10011, United States|40.7402997|-73.99380409999999
+Lightsail Energy|914 Heinz Ave, Berkeley, CA 94710, United States|37.8533406|-122.2913775
+MCube|2570 N 1st St #300, San Jose, CA 95131, United States|37.3851283|-121.9253683
+Ogin|221 Crescent St, Waltham, MA 02453, United States|42.3666683|-71.24361019999999
+Scribd|333 Bush St #2400, San Francisco, CA 94104, United States|37.7907302|-122.4029934
+SnapLogic|2 W 5th Ave, San Mateo, CA 94402, United States|37.561662|-122.3248944
+Sumo Logic|305 Main St, Redwood City, CA 94063, United States|37.492674|-122.227793
+Vessel|85 Campton Pl, San Francisco, CA 94108, United States|37.78892329999999|-122.4065524
+Adatao|888 Villa St #401, Mountain View, CA 94041, United States|37.3943659|-122.0797489
+Affirm|633 Folsom St, San Francisco, CA 94107, United States|37.7846514|-122.3973028
+Airware|343 Sansome St #600, San Francisco, CA 94104, United States|37.79374500000001|-122.4016994
+Blue Jeans Network|516 Clyde Ave, Mountain View, CA 94043, United States|37.3988731|-122.0473641
+Dataminr|Floor 2, 6 E 32nd St, New York, NY 10016, United States|40.74672899999999|-73.98486
+Duolingo|5900 Penn Ave, Pittsburgh, PA 15206, United States|40.461627|-79.92678
+Endgame|3101 Wilson Blvd, Arlington, VA 22201, United States|38.88763679999999|-77.0953305
+Foursquare|10, 568 Broadway, New York, NY 10012, United States|40.7243079|-73.9974058
+Freshdesk|1250 Bayhill Dr #315, San Bruno, CA 94066, United States|37.6285164|-122.4229913
+Hearsay Social|185 Berry St #3800, San Francisco, CA 94107, United States|37.77653|-122.392079
+Instart Logic|450 Lambert Ave, Palo Alto, CA 94306, United States|37.4214882|-122.1367893
+Jaunt|395 Page Mill Rd #210, Palo Alto, CA 94306, United States|37.4256015|-122.1392146
+Kensho|Siena College, 515 Loudon Road, Latham, NY 12110, USA|42.71627249999999|-73.7499692
+Looker|101 Church St, Santa Cruz, CA 95060, United States|36.9743805|-122.0267928
+Luxe|2, 77 Federal St, San Francisco, CA 94107, United States|37.782923|-122.3925524
+PayNearMe|292 Gibraltar Dr #104, Sunnyvale, CA 94089, United States|37.409152|-122.015446
+Robinhood|3200 Ash St, Palo Alto, CA 94306, United States|37.4222107|-122.1370804
+SignalFX|60 E 3rd Ave, San Mateo, CA 94401, United States|37.5635618|-122.3245026
+SKULLY|490 Post St # 700, San Francisco, CA 94102, United States|37.78840539999999|-122.4097688
+Solexel|1530 McCarthy Blvd, Milpitas, CA 95035, United States|37.408375|-121.9196661
+Stitch Fix|1 Montgomery Tower, San Francisco, CA 94104, United States|37.7893049|-122.4033684
+Upstart|2 Circle Star Way, San Carlos, CA 94070, United States|37.4987837|-122.2400956
+VMTurbo|500 Boylston St, Boston, MA 02116, United States|42.3505481|-71.0740414
+Ambiq Micro|6500 River Pl Blvd #200, Austin, TX 78730, United States|30.3966195|-97.8517752
+Aquion Energy|32 39th St, Pittsburgh, PA 15201, United States|40.4689221|-79.96569649999999
+Aspiration|4 Chome-13-7 Aikokuhigashi, Kushiro, Hokkaidō 085-0058, Japan|43.0110709|144.3864347
+Athos|201 Arch St, Redwood City, CA 94062, United States|37.4865927|-122.2364893
+August|657 Bryant St, San Francisco, CA 94107, United States|37.77806|-122.3994052
+Betterment|61 W 23rd St, New York, NY 10010, United States|40.7426416|-73.991811
+Bitglass|675 Campbell Technology Pkwy #225, Campbell, CA 95008, United States|37.2802748|-121.9429566
+Coinbase|548 Market St, San Francisco, CA 94104, United States|37.7900286|-122.4008398
+Course Hero|Second Floor,, 1400 Seaport Blvd, Redwood City, CA 94063, United States|37.5136142|-122.1995195
+Eero|500 Howard St #900, San Francisco, CA 94105, United States|37.7884892|-122.3967349
+Elastic|800 W El Camino Real #350, Mountain View, CA 94040, United States|37.3864953|-122.0841289
+Evertrue|2, 330 Congress St, Boston, MA 02210, United States|42.3512196|-71.04929109999999
+Figma|142 Minna St, San Francisco, CA 94105, United States|37.7868405|-122.4005204
+Flexport|731 Market St, 6th Floor, San Francisco, CA 94103, United States|37.78679500000001|-122.4041037
+Genius|92 3rd St, Brooklyn, NY 11231, United States|40.6774355|-73.9931817
+Hipmunk|180 Townsend St, San Francisco, CA 94107, United States|37.77931239999999|-122.3925424
+Mesosphere|88 Stevenson St, San Francisco, CA 94105, United States|37.7893041|-122.4003783
+NerdWallet|901 Market St, San Francisco, CA 94103, United States|37.78352139999999|-122.4081087
+One Medical Group|2 Embarcadero Center, Lobby Level, San Francisco, CA 94111, United States|37.79499129999999|-122.3984939
+Optimizely|631 Howard St #100, San Francisco, CA 94105, United States|37.78613289999999|-122.3988482
+OYO Rooms|Unit No. 840,OYO Rooms, Tower B3 , Spaze-IT Park, Sector 49 ,Sohna Road, Gurugram, Haryana 122018, India|28.408704|77.045377
+PlanetLabs|346 9th St, San Francisco, CA 94103, United States|37.7730633|-122.4111851
+Realm|148 Townsend St, San Francisco, CA 94107, United States|37.77986569999999|-122.3919903
+Remind|77 Stillman St, San Francisco, CA 94107, United States|37.7820433|-122.3957338
+Samsara|201 Potrero Ave, San Francisco, CA 94103, United States|37.76679109999999|-122.407096
+Science Exchange|203 Forest Ave, Palo Alto, CA 94301, United States|37.4433056|-122.1603416
+Shapeways|419 Park Ave S, 9th Floor, New York, NY 10016, United States|40.7437336|-73.9835686
+Shyp|585 Howard St, San Francisco, CA 94105, United States|37.78690780000001|-122.3974832
+uBeam|2210 Main St, Santa Monica, CA 90405, United States|34.005186|-118.487371
+Upwork|441 Logue Ave, Mountain View, CA 94043, United States|37.3981499|-122.0490902
+Vicarious|150 Broadway #205, Menands, NY 12204, USA|42.6871276|-73.7296954
+Welltok|1515 Arapahoe St, Denver, CO 80202, United States|39.7477824|-104.9968762
+17zuoye|Fujin, Jiamusi, Heilongjiang, China|47.16079899999999|131.710317
+3D Robotics|Av. Produccion 6-C, Parque Industrial Internacional Tijuana, 22425 Tijuana, B.C., Mexico|32.52425399999999|-116.966392
+Algal Scientific|14925 Galleon Ct, Plymouth, MI 48170, United States|42.391298|-83.5145874
+Andela|129 W 29th St, New York, NY 10001, United States|40.74739|-73.991225
+Automatic|575 Florida St #100, San Francisco, CA 94110, United States|37.7619803|-122.4106178
+Ayasdi|4400 Bohannon Dr #200, Menlo Park, CA 94025, United States|37.4793692|-122.1771428
+Bolt Threads|5858 Horton St #400, Emeryville, CA 94608, United States|37.8402677|-122.2907047
+Canary|132 E 43rd St #552, New York, NY 10017, United States|40.7516119|-73.9753566
+Clean Power Finance|201 Mission St, San Francisco, CA 94105, United States|37.7911703|-122.3951089
+ClearStory Data|4300 Bohannon Dr #200, Menlo Park, CA 94025, United States|37.47947319999999|-122.1779358
+Cyanogen|301 High St, Palo Alto, CA 94301, United States|37.4448183|-122.1658387
+DNAnexus|1975 W El Camino Real #101, Mountain View, CA 94040, United States|37.393771|-122.0990795
+DoorDash|116 New Montgomery St, San Francisco, CA 94105, United States|37.7870722|-122.4004509
+Earnest|18, 1455 Market St, San Francisco, CA 94103, United States|37.775448|-122.4182215
+Edaija|Building 10, West Area, Jianwai SOHO, 39 Dong San Huan Zhong Lu, Chaoyang, Beijing, China|39.90482|116.455211
+Flatiron Health|200 5th Ave, New York, NY 10010, United States|40.7421643|-73.9898936
+Go-Jek|Jalan Kemang Selatan No. 99 B, Bangka, Mampang Prapatan, RT.1/RW.2, Bangka, Mampang Prpt., Kota Jakarta Selatan, DKI Jakarta 12730, Indonesia|-6.2731523|106.8163804
+Greenhouse|Greenhouse, 200 N Washington Blvd, Ogden, UT 84404, USA|41.2629082|-111.967177
+Grofers|Plot No. 81, Institutional Area, Prem Puri, Sector 32, Gurugram, Haryana 122001, India|28.4469047|77.04173329999999
+Helium|1663 Mission St #250, San Francisco, CA 94103, United States|37.7712023|-122.4193217
+Highfive|500 Arguello St #200, Redwood City, CA 94063, United States|37.48765|-122.233367
+HotelTonight|901 Market St #310, San Francisco, CA 94103, United States|37.7834848|-122.4080988
+IFTTT|923 Market St #400, San Francisco, CA 94103, United States|37.7833672|-122.4084134
+Impossible Foods|701 Chesapeake Dr, Redwood City, CA 94063, United States|37.5009559|-122.2152962
+Improbable|20 Farringdon Rd, London EC1M 3HE, United Kingdom|51.51994980000001|-0.1055144
+Iora Health|6, 101 Tremont St, Boston, MA 02108, United States|42.35715200000001|-71.06089260000002
+iZettle|Regeringsgatan 59, 111 43 Stockholm, Sweden|59.33435850000001|18.0666619
+JIBO|230 Congress St, Boston, MA 02110, United States|42.35453439999999|-71.05409
+Keybase|30 Klein St, Benoni, 1501, South Africa|-26.17771039999999|28.28625469999999
+Life360|3581 S Kansas Ave, Springfield, MO 65807, United States|37.1494815|-93.31525479999999
+Mantis Vision|Imber St 24, Petah Tikva, 4951158, Israel|32.0996113|34.8656403
+Matterport|352 E Java Dr, Sunnyvale, CA 94089, United States|37.4101715|-122.0134918
+MetaMind|2Q1 A1&A2, Cyber Towers, Hitech City, Madhapur, Hyderabad, Telangana 500081, India|17.4482929|78.3914851
+Minerva Project|1145 Market St, San Francisco, CA 94103, United States|37.7793632|-122.4131855
+Modern Meadow|140 58th St #8j, Brooklyn, NY 11220, United States|40.645554|-74.02501
+Motif Investing|2 E 3rd Ave #100 300, San Mateo, CA 94401, United States|37.56294580000001|-122.3254945
+Ninebot|Left Bank, Chaoyang Qu, Beijing Shi, China, 100016|39.949532|116.476996
+OpenEnglish|2901 Florida Ave #840, Miami, FL 33133, United States|25.72935|-80.24078899999999
+Pindrop Security|817 West Peachtree St NW #770, Atlanta, GA 30308, United States|33.7769473|-84.3870191
+Platfora|1300 S El Camino Real, San Mateo, CA 94402, United States|37.5547268|-122.3173769
+Postmates|425 Market St #8, San Francisco, CA 94105, United States|37.7911924|-122.3981466
+Practice Fusion|731 Market St #400, San Francisco, CA 94103, United States|37.7867233|-122.4039416
+Raise Marketplace|11 E Madison St, Chicago, IL 60602, United States|41.88182|-87.627302
+Seeo|3906 Trust Way, Hayward, CA 94545, United States|37.623188|-122.124104
+Segment|101 15th St, San Francisco, CA 94103, United States|37.7672319|-122.4021353
+SendGrid|1801 California St #500, Denver, CO 80202, United States|40.01770189999999|-105.2768089
+Shape Security|800 W El Camino Real #250, Mountain View, CA 94040, United States|37.3865018|-122.0844185
+Skycatch|424 9th St, San Francisco, CA 94103, United States|37.77206109999999|-122.4099268
+Snowflake Computing|101 S Ellsworth Ave #350, San Mateo, CA 94401, United States|37.5663842|-122.3242663
+Soylent Corporation|207 S Broadway, Los Angeles, CA 90012, United States|34.0523411|-118.2471898
+Spire|575 Florida St Suite 150, San Francisco, CA 94110, United States|37.76199|-122.4106502
+Takealot Online|Takealot Building, 12th Floor,, 10 Rua Vasco Da Gama Plain, Foreshore, Cape Town, 8001, South Africa|-33.91843099999999|18.428403
+Thync|2, 140 W Main St, Los Gatos, CA 95030, United States|37.22247369999999|-121.983005
+Tokopedia|Jl. Gabus 7 No.39, Kayuringin Jaya, Bekasi Sel., Kota Bks, Jawa Barat 17144, Indonesia|-6.248125|106.9855553
+True North Therapeutics|951 Gateway Blvd, South San Francisco, CA 94080, United States|37.6615443|-122.3985533
+VeloCloud|295 N Bernardo Ave, Mountain View, CA 94043, United States|37.38680009999999|-122.0501269
+x.ai|New York, NY, USA|40.7127837|-74.0059413
+Zerto|27-43 Wormwood St #530, Boston, MA 02210, United States|42.34679599999999|-71.049621
+AlienVault|1875 S Grant St, San Mateo, CA 94402, United States|37.5534578|-122.3001802
+App Annie|Annie St, San Francisco, CA, USA|37.78728869999999|-122.401856
+Babylon Health|First Floor, 60 Sloane Avenue, London SW3 3DD, United Kingdom|51.492907|-0.166887
+CareCloud|5200 Blue Lagoon Dr #900, Miami, FL 33126, United States|25.7816108|-80.28056219999999
+CloudGenix|2665 N 1st St #110, San Jose, CA 95134, United States|37.3875022|-121.9296693
+CohereTechnologies|2550 Walsh Ave #150, Santa Clara, CA 95051, United States|37.3702486|-121.9730476
+CommonBond|524 Broadway, New York, NY 10012, United States|40.7227838|-73.998671
+Compass|90 5th Ave, New York, NY 10011, United States|40.7363395|-73.9936373
+Curious|100 Middlefield Rd, Menlo Park, CA 94025, United States|37.4549932|-122.1642517
+Dollar Shave Club|13335 Maxella Ave, Marina Del Rey, CA 90292, United States|33.9883764|-118.4393002
+Dwolla|666 Walnut St #1830, Des Moines, IA 50309, United States|41.5852418|-93.62543409999999
+Ehang|Am Falder 4, 40589 Düsseldorf, Germany|51.17517|6.825639999999999
+Euclid Analytics|400 Alabama St, San Francisco, CA 94110, United States|37.7638145|-122.4126069
+Flux Factory|1370 Harrison St, San Francisco, CA 94103, United States|37.7719992|-122.4110031
+FreedomPOP|1100 Glendon Ave, Los Angeles, CA 90024, United States|34.0605955|-118.443832
+General Fusion|106 - 3680 Bonneville Pl, Burnaby, BC V3N 4T5, Canada|49.251822|-122.915396
+Ginkgo Bioworks|27 Drydock Ave, Boston, MA 02210, United States|42.34438039999999|-71.0279912
+HackerOne|14th Floor, 535 Mission St, San Francisco, CA 94105, United States|37.78884|-122.398129
+Harry's|1 Hanover Square, New York, NY 10004, United States|40.7046763|-74.0097371
+Hedvig|2350 Mission College Blvd, Santa Clara, CA 95054, United States|37.3871023|-121.9668661
+Hired|19, 1455 Market St, San Francisco, CA 94103, United States|37.775316|-122.4174374
+Hyperloop Technologies|2159 Bay St, Los Angeles, CA 90021, United States|34.0314832|-118.2278143
+Infer|444 Castro St, Mountain View, CA 94041, United States|37.39067279999999|-122.0816563
+JAMF|100 Washington Square, 100 S Washington Ave #1100, Minneapolis, MN 55401, United States|44.9812067|-93.2657376
+Kymeta|12277 134th Ct NE, Redmond, WA 98052, United States|47.709745|-122.1624541
+Lily|3457 Sacramento St, San Francisco, CA 94118, United States|37.7877553|-122.4495352
+Liquidity Nanotech|1020 Atlantic Ave, Alameda, CA 94501, United States|37.780102|-122.264761
+Medium|700 Market St, San Francisco, CA 94102, United States|37.78770649999999|-122.403831
+Mixpanel|2, 405 Howard St, San Francisco, CA 94105, United States|37.7885649|-122.3950766
+Narrative Science|303 E Upper Wacker Dr #1500, Chicago, IL 60601, United States|41.887285|-87.6200715
+NuBank|R. Capote Valente, 39 - Pinheiros, São Paulo - SP, 05409-000, Brazil|-23.560995|-46.6735441
+Numenta|791 Middlefield Rd, Redwood City, CA 94063, United States|37.4868081|-122.2288735
+OneFineStay|Bloomsbury House, 9 Guilford St, London WC1N 1DT, United Kingdom|51.51895599999999|-0.122689
+Ozy Media|800 W El Camino Real #260, Mountain View, CA 94040, United States|37.3864953|-122.0841289
+peerTransfer|10, 141 Tremont St, Boston, MA 02111, United States|42.3554292|-71.0627693
+PernixData|1745 Technology Dr #800, San Jose, CA 95110, United States|37.3681474|-121.9208624
+PolicyGenius|22 W 19th St, New York, NY 10011, United States|40.7393587|-73.9928961
+Ravello Systems|Zarhin St 13, Ra'anana, Israel|32.1980466|34.88243980000001
+Redfin|1099 Stewart St #600, Seattle, WA 98101, United States|47.61672299999999|-122.3326306
+Skyhigh Networks|900 E Hamilton Ave #400, Campbell, CA 95008, United States|37.2935793|-121.9343839
+SmartDrive Systems|9450 Carroll Park Dr, San Diego, CA 92121, United States|32.887071|-117.1734112
+Stack Exchange|110 William St, New York, NY 10038, United States|40.70877369999999|-74.0067282
+Switch Communications|100 California St #500, San Francisco, CA 94111, United States|37.793949|-122.398062
+Synack|1600 Seaport Blvd #170, Redwood City, CA 94063, United States|37.51222790000001|-122.201432
+Tamr|66 Church St 2nd Floor, Cambridge, MA 02138, United States|42.3739808|-71.12099959999999
+Teespring|460 Bryant St #200, San Francisco, CA 94107, United States|37.7825586|-122.3951837
+Uxin|Nanhu S Rd, WangJing, Chaoyang Qu, Beijing Shi, China, 100102|39.99213100000001|116.4625852
+Barkly|Barkly, NT, Australia|-20.3331817|136.2091547
+Blue Danube Systems|465 Fairchild Dr #124, Mountain View, CA 94043, United States|37.4028461|-122.0525303
+BrightBytes|717 Market St STE 300, San Francisco, CA 94103, United States|37.7868614|-122.4036958
+Capriza|400 Hamilton Ave #130, Palo Alto, CA 94301, United States|37.4466041|-122.1584513
+CipherCloud|333 W San Carlos St #1100, San Jose, CA 95110, United States|37.32886229999999|-121.8935976
+Circle|Apartment 1, Circle House, Terenure Pl, Terenure, Dublin 6W, Co. Dublin, Ireland|53.3096889|-6.284456800000001
+Coho Data|2933 Bunker Hill Ln, Santa Clara, CA 95054, United States|37.4069445|-121.9797628
+DB Networks|15015 Avenue of Science #150, San Diego, CA 92128, United States|32.98917460000001|-117.0788434
+DigitalOcean|101 6th Ave, New York, NY 10013, United States|40.723278|-74.005577
+Estimote|3, 35 E 19th St, New York, NY 10003, United States|40.738227|-73.9890813
+Fundbox|300 Montgomery St, San Francisco, CA 94104, United States|37.792371|-122.4024732
+Handy|2263 Broadway, New York, NY 10024, United States|40.785505|-73.97919410000002
+Ionic Security|1170 Peachtree St NE #400, Atlanta, GA 30309, United States|33.786323|-84.383591
+Lehigh Technologies|120 Royal Woods Ct # F, Tucker, GA 30084, United States|33.8626726|-84.1747329
+Livongo Health|150 W Evelyn Ave #150, Mountain View, CA 94041, United States|37.3924253|-122.0718794
+Malwarebytes|3979 Freedom Cir, Santa Clara, CA 95054, United States|37.388057|-121.973941
+Meteor|140 10th St, San Francisco, CA 94103, United States|37.77468959999999|-122.4154627
+Nantero|25E Olympia Ave, Woburn, MA 01801, United States|42.500248|-71.130708
+Navdy|575 7th St, San Francisco, CA 94103, United States|37.7735036|-122.4033941
+Onshape|1 Alewife Center, Cambridge, MA 02140, United States|42.398537|-71.1399878
+Opendoor|116 New Montgomery St #820, San Francisco, CA 94105, United States|37.7870722|-122.4004509
+Pebble|900 Middlefield Rd, Redwood City, CA 94063, United States|37.4850765|-122.2293045
+Personal Capital|1 Circle Star Way #189, San Carlos, CA 94070, United States|37.4982335|-122.2394831
+Procore Technologies|6309 Carpinteria Ave, Carpinteria, CA 93013, United States|34.384407|-119.490979
+Shift|901 Sansome St, San Francisco, CA 94133, United States|37.798597|-122.4025986
+Spiceworks|3700 N Capital of Texas Hwy #100, Austin, TX 78746, United States|30.3364873|-97.8074927
+Squarespace|8 Clarkson St, New York, NY 10014, United States|40.729313|-74.00574999999999
+Tealium|11095 Torreyana Rd, San Diego, CA 92121, United States|32.9072285|-117.2367255
+Tilt|370 Townsend St, San Francisco, CA 94107, United States|37.7760081|-122.3966063
+Toast|401 Park Dr, Boston, MA 02215, United States|42.3448584|-71.1024135
+WeTransfer|Oostelijke Handelskade 751, 1019 BW Amsterdam, Netherlands|52.37531269999999|4.9309463
+CircleUp|6, 30 Maiden Ln, San Francisco, CA 94108, United States|37.7884909|-122.404361
+ClassPass|275 7th Ave, New York, NY 10001, United States|40.7455693|-73.9941582
+Datadog|New York Times Bldg, 620 8th Ave, New York, NY 10018, United States|40.75608659999999|-73.9901119
+Jelli|703 S B St, San Mateo, CA 94401, United States|37.5628507|-122.3191031
+PlaceIQ|1065 6th Ave, New York, NY 10018, United States|40.753937|-73.98540899999999
+Project Frog|99 Green St, San Francisco, CA 94111, United States|37.800569|-122.4012035
+Redmart|6 Fishery Port Rd, Level 7, Singapore 619747|1.312623|103.7225139
+Taboola|28 W 23rd St, New York, NY 10010, United States|40.7418474|-73.99096229999999
+Talend|800 Bridge Pkwy Suite 200, Redwood City, CA 94065, United States|37.5334491|-122.258783
+Talkdesk|535 Mission St, San Francisco, CA 94105, United States|37.7888898|-122.3981036
+Expect Labs (Mindmeld)|251 Kearny St #400, San Francisco, CA 94108, United States|37.7905061|-122.4042025
+Wayin|1625 Blake St, Denver, CO 80202, United States|39.751179|-104.998836
+Aquantia|105 E Tasman Dr, San Jose, CA 95134, United States|37.411758|-121.942309
+Sano|Sano, Tochigi Prefecture, Japan|36.3143491|139.578341
+Estimote|3, 35 E 19th St, New York, NY 10003, United States|40.738227|-73.9890813
+Lifesize|1601 S MoPac Expy, Austin, TX 78746, United States|30.2603994|-97.7911208
+Clarifai|3rd Floor, 218 W 18th St, New York, NY 10011, United States|40.7413548|-73.99890270000002
+Branch Metrics|2443 Ash St, Palo Alto, CA 94306, United States|37.42635129999999|-122.1442218
+Presence Learning|180 Montgomery St, San Francisco, CA 94104, United States|37.79080810000001|-122.4020826
+Spartz Media|358 W Ontario St #2E, Chicago, IL 60654, United States|41.89338099999999|-87.638226
+Kapow Events|205 W Wacker Dr #1200, Chicago, IL 60606, United States|41.8864476|-87.63429330000001
+URX|164 S Park St, San Francisco, CA 94107, United States|37.7811587|-122.3948587
+NerdWallet|901 Market St, San Francisco, CA 94103, United States|37.78352139999999|-122.4081087
+Fullbridge|38 Chauncy St, Boston, MA 02111, United States|42.35389660000001|-71.0596539
+Kaltura|250 Park Ave S, New York, NY 10003, United States|40.73825129999999|-73.9881589
+HelloFresh|95 Morton St, New York, NY 10014, United States|40.7313013|-74.00852429999999
+Carbon3D|1089 Mills Way, Redwood City, CA 94063, United States|37.487299|-122.209363
+Illumio|160 San Gabriel Dr, Sunnyvale, CA 94086, United States|37.37669510000001|-122.0150707

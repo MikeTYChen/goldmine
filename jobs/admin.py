@@ -1,8 +1,14 @@
 from django.contrib import admin
-
 from .models import Company, Job, Location
 
-# Register your models here.
+
+class CompanyAdmin(admin.ModelAdmin):
+    list_display = ('name', 'location')
+
+class LocationAdmin(admin.ModelAdmin):
+    list_display = ('address', 'lat', 'long')
+    fields = ('address','lat', 'long')
+
 admin.site.register(Job)
-admin.site.register(Company)
-admin.site.register(Location)
+admin.site.register(Company, CompanyAdmin)
+admin.site.register(Location, LocationAdmin)

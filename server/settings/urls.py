@@ -16,9 +16,10 @@ Including another URLconf
 from django.conf.urls import url, include
 from django.contrib import admin
 from django.views import generic
-
+from jobs.views import scrape
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
+    url(r'^admin/', admin.site.urls),    
+    url(r'^scrape/', scrape),
     url(r'^api/v1/', include('jobs.urls', namespace='jobs')),
     url(r'^$', generic.TemplateView.as_view(template_name='index.html')),
 ]

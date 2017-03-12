@@ -19,6 +19,12 @@ class Company(models.Model):
 
 
 class Location(models.Model):
-  name = models.CharField(max_length=150, blank=True, null=True)
+  address = models.CharField(max_length=150, blank=True, null=True)
   lat = models.FloatField(blank=True, null=True)
   long = models.FloatField(blank=True, null=True)
+
+  def __str__(self):
+    if self.address:
+      return self.address
+    else:
+      return ''
